@@ -1,0 +1,5 @@
+{
+  "name": "FileBox",
+  "description": "A simple and elegant file upload and download application.",
+  "requestFramePermissions": []
+}
